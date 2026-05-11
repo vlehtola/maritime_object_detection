@@ -1,0 +1,10 @@
+**/__pycache__/
+experiment_output/
+visualization/
+data/
+weights/
+myenv/
+configs/test.py
+configs_test/
+pruned_mask/
+scripts_aws/
